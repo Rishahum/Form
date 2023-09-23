@@ -86,7 +86,6 @@ export default {
 };
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;500;700;800&display=swap");
 * {
